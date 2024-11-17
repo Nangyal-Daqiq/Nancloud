@@ -10,5 +10,3 @@ There are websites that do not look good on all devices or screen sizes and ofte
 
 Navigate to [nancloud.app](https://nancloud.vercel.app/) and check it out!
 
-## 🤝 Contributing
-
