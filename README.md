@@ -4,7 +4,7 @@ This is Nancloud! A beautiful, responsive and fast cloud hosting website built u
 
 ## Motivation
 
-There are websites that do not look good on all devices or screen sizes and often lack responsiveness or have design issues. Nancloud renders well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.
+There are websites that don't look good on all devices or screen sizes and lack responsiveness or have design issues. Nancloud renders well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.
 
 ## 🚀 Quick Start
 
